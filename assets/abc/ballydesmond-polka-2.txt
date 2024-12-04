@@ -1,0 +1,9 @@
+X: 1
+T: Ballydesmond Polka no. 2
+M: 4/4
+L: 1/4
+K: G
+|:EAAB|C'D'E'2|G3/2F/GA|GEED|
+EAAB|C'D'E'F'|G'3/2E'/D'B|A2A2:|
+|:A'3/2G'/A'B'|A'G'E'F'|G'3/2F'/G'A'|G'E'E'D'|
+E'A'A'B'|A'G'E'3/2F'/|G'E'D'B|A2A2:|]
