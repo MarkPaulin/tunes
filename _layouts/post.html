@@ -10,5 +10,5 @@ layout: default
 <script src={{ "/assets/js/abcjs-basic-min.js" | relative_url }} type="text/javascript"></script>
 <script src={{ "/assets/js/tune.js" | relative_url }} type="text/javascript"></script>
 <script type="text/javascript">
-    render_abc("{{ page.tune }}")
+    render_abc("{{ '/assets/abc' | relative_url }}/{{ page.tune }}.txt")
 </script>
