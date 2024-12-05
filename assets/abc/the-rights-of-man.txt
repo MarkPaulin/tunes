@@ -1,0 +1,9 @@
+X: 1
+T: The Rights of Man
+M: 4/4
+L: 1/8
+K: G
+|:GA|BC' AB GA FG|EF GA B2 E'F'|G'F' E'D' E'D' BD'|C'B AG A2 GA|
+BC' AB GA FG|EF GA B2 E'F'|G'F' E'D' BG' F'G'|E'2 E2 E2:|G'A'|
+B'A' B'G' E'F' G'A'|B'A' B'G' E'G' F'E'|D'A FA D'E' F'G'|A'F' D'F' A'2 G'F'|
+E'D' E'F' G'F' G'A'|B'G' A'F' G'F' E'F'|G'F' E'D' BG' F'G'|E'2 E2 E2:|]
