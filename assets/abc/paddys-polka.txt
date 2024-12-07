@@ -1,5 +1,5 @@
 X: 1
-T: Ballydesmond Polka no. 3
+T: Paddy's Polka
 M: 4/4
 L: 1/8
 K: A

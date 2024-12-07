@@ -1,0 +1,9 @@
+X: 1
+T: The Mountain Road
+M: 4/4
+L: 1/8
+K: D
+F2 AF BF AF | F2 AF EF DE | F2 AF BF AF | G2 FG ED B,D |
+F2 AF BF AF | F2 AF EF DE | FA A/B/A BA FB | AB D'E' F'D' D'C'|
+D'3B AD FA | D'C' D'E' F'G' F'E' | D'C' D'B AD FA | G2 FG ED B,D|
+D'3B AD FA | D'C' D'E' F'G' F'E' | D'C' D'B AD FA | G2 FG ED B,D| 
