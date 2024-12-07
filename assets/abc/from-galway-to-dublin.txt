@@ -1,0 +1,11 @@
+X: 1
+T: From Galway to Dublin
+M: 4/4
+L: 1/8
+K: Em
+B,3/2D/|:E2 E3/2F/ E3/2D/ B,3/2D/|G3/2F/ G3/2B/ A2 G3/2A/|
+B3/2D'/ G'3/2F'/ D'3/2B/ G3/2F/|[1G3/2E/ E/F/E D2 B,3/2D/:|
+[2G3/2E/ E3/2D/ E2 B3/2D'/||E'3/2F'/ E'3/2D'/ B2 B3/2A/|
+G3/2F/ G3/2B/ D'2 B3/2D'/|E'3/2F'/ E'3/2D'/ B2 B3/2A/|
+G3/2E/ E/F/E D2 B,3/2D|E2 E3/2F/ E3/2D/ B,3/2D/|
+G3/2F/ G3/2B/ A2 G3/2A/|B3/2D'/ G'3/2F'/ D'3/2B/ G3/2F/|G3/2E/ E3/2D/ E4|]

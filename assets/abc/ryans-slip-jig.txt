@@ -1,0 +1,7 @@
+X: 1
+T: Ryan's slip jig
+M: 9/8
+L: 1/8
+K: D
+|:FAA FAD' AFD|FAA FAD' B2A|FAA FAD' AFD|EDB, DFA B2A:|
+|:F'A'F' F'A'F' E'D'B| A2G' G'F'G' A'2E'|F'A'F' F'A'F' E'D'B|AFE DFA B2A:|

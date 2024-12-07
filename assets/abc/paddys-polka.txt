@@ -1,0 +1,9 @@
+X: 1
+T: Ballydesmond Polka no. 3
+M: 4/4
+L: 1/8
+K: A
+|:A3/2F/ EF AB C'E'|F'E' C'A BA F2|
+A3/2F/ EF AB C'E'|F'E' C'A BA A2:|
+|:F'E' C'E' F'E' E'2|A'3/2F'/ E'C' BA F2|
+A3/2F/ EF AB C'E'|F'E' C'A BA A2:|
