@@ -6,4 +6,4 @@ K: D
 FAA D'AA|BAB D'AG|FAA D'F'E'|D'BB BAG|
 FAA D'AA|BAB D'E'F'|G'F'E' D'F'E'|D'BB [1BAG:|[2B2E'||
 F'B'B' F'A'A'|F'E'F' D'2E'|F'B'B' F'A'A'|F'E'D' E'2G'|
-'B'B' F'A'A'|F'E'F' D'E'F'|G'F'E' D'F'E'|D'BB [1B2E':|[2BAG||
+F'B'B' F'A'A'|F'E'F' D'E'F'|G'F'E' D'F'E'|D'BB [1B2E':|[2BAG||
